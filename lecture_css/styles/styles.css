@@ -1,0 +1,31 @@
+body {
+    width: 90%;
+}
+.form {
+    background-color: beige;
+    width: 80%;
+    max-width: 500px;
+    margin: 100px auto;
+}
+input {
+    width: 60%;
+}
+.input {
+    margin: 20%;
+    text-align: center;
+}
+#title, a {
+    text-align: center;
+    font-weight: 700;
+    padding-top: 10%;
+    padding-bottom: 5%;
+}
+img {
+    display: block;
+    /* margin: 0px auto; */
+    position: absolute;
+    top: 9%;
+    left: 47%;
+
+}
+
