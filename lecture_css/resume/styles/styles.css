@@ -11,9 +11,23 @@ div.main_container {
     justify-content: space-between;
     flex-wrap: wrap;
 }
-img #photo {
-    float: left
+.box1 {
+    display: flex;
+    justify-content: space-between;
 }
+#nametag {
+    margin-left: auto;
+}
+
+/* div #photo {
+    display: inline-block;
+    vertical-align: top;
+    width: 50%;
+}
+div #nametag {
+    display: inline-block;
+    width: 50%; 
+}*/
 
 .box3 {
     flex-basis: 100%;
